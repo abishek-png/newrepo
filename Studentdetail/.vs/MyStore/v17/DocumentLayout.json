@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\Studentdetail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105165812_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105141044_initialmigrtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\db\\databasecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\db\\databasecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\studentcrudoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\studentcrudoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|c:\\asp.net\\studentdetail\\mystore\\migrations\\20250105170105_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32083293-9EF2-4315-BA04-3D4C15AF7764}|MyStore\\Studentcrudoperation.csproj|solutionrelative:mystore\\migrations\\20250105170105_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250105170105_initialmigration.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Migrations\\20250105170105_initialmigration.cs",
+              "RelativeDocumentMoniker": "MyStore\\Migrations\\20250105170105_initialmigration.cs",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Migrations\\20250105170105_initialmigration.cs",
+              "RelativeToolTip": "MyStore\\Migrations\\20250105170105_initialmigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:01:05.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250105165812_initialmigration.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105165812_initialmigration.cs",
+              "RelativeDocumentMoniker": "..\\MyStore\\MyStore\\Migrations\\20250105165812_initialmigration.cs",
+              "ToolTip": "C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105165812_initialmigration.cs",
+              "RelativeToolTip": "..\\MyStore\\MyStore\\Migrations\\20250105165812_initialmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:58:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyStore\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyStore\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:29:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\appsettings.Development.json",
+              "RelativeToolTip": "MyStore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T09:10:56.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStore\\appsettings.json",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\appsettings.json",
+              "RelativeToolTip": "MyStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T08:40:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "MyStore\\Model\\Student.cs",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Model\\Student.cs",
+              "RelativeToolTip": "MyStore\\Model\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:36:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Program.cs",
+              "RelativeDocumentMoniker": "MyStore\\Program.cs",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Program.cs",
+              "RelativeToolTip": "MyStore\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:25:27.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250105141044_initialmigrtion.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105141044_initialmigrtion.cs",
+              "RelativeDocumentMoniker": "..\\MyStore\\MyStore\\Migrations\\20250105141044_initialmigrtion.cs",
+              "ToolTip": "C:\\Asp.net\\MyStore\\MyStore\\Migrations\\20250105141044_initialmigrtion.cs",
+              "RelativeToolTip": "..\\MyStore\\MyStore\\Migrations\\20250105141044_initialmigrtion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:10:44.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Databasecls.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Db\\Databasecls.cs",
+              "RelativeDocumentMoniker": "MyStore\\Db\\Databasecls.cs",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Db\\Databasecls.cs",
+              "RelativeToolTip": "MyStore\\Db\\Databasecls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:30:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Studentcrudoperation.csproj",
+              "DocumentMoniker": "C:\\Asp.net\\Studentdetail\\MyStore\\Studentcrudoperation.csproj",
+              "RelativeDocumentMoniker": "MyStore\\Studentcrudoperation.csproj",
+              "ToolTip": "C:\\Asp.net\\Studentdetail\\MyStore\\Studentcrudoperation.csproj",
+              "RelativeToolTip": "MyStore\\Studentcrudoperation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T08:35:35.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
