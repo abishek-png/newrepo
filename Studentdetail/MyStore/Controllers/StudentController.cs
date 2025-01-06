@@ -47,7 +47,7 @@ namespace Studentcrudoperation.Controllers {
             _db.SaveChanges();
             return Ok(stu);
         }
-        [HttpPost]
+        [HttpDelete]
         [Route("delete")]
         public IActionResult DeleteById(int id) {
             Student st = _db.Students.FirstOrDefault(x => x.Id == id);
